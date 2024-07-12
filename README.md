@@ -12,7 +12,7 @@ This repository contains my solutions to Harvard University's CS50P curriculum.
 
 - [Week 0: Functions, Variables](https://github.com/SamP521/CS50P/tree/main/Week0)
 - [Week 1: Conditionals](https://github.com/SamP521/CS50P/tree/main/Week1)
-- Week 2: Loops
+- [Week 2: Loops](https://github.com/SamP521/CS50P/tree/main/Week2)
 - Week 3: Exceptions
 - Week 4: Libraries
 - Week 5: Unit Tests
