@@ -19,4 +19,4 @@ This repository contains my solutions to Harvard University's CS50P curriculum.
 - Week 6: File I/O
 - Week 7: Regular Expressions
 - Week 8: Object-Oriented Programming
-- Final Projectt
+- Final Project
